@@ -1,0 +1,3 @@
+[submodule "yummy_java_program"]
+	path = yummy_java_program
+	url = https://github.com/ElenaKhin/yummy_java_program.git
